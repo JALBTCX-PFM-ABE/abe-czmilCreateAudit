@@ -1,0 +1,8 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/contextHelp.png</file>
+        <file>icons/czmilCreateAudit.png</file>
+        <file>icons/czmilCreateAuditWatermark.png</file>
+ </qresource>
+ </RCC>
+
